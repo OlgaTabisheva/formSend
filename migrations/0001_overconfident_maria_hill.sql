@@ -1,0 +1,1 @@
+ALTER TABLE "formSend" DROP COLUMN "id";
